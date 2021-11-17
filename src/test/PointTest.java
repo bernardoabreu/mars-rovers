@@ -42,7 +42,7 @@ class PointTest {
 	}
 
 	@Test
-	void testSetLocation() {
+	void testSetLocationPoint() {
 		Point p = new Point();
 		int x = 2;
 		int y = 3;
